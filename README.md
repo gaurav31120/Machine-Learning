@@ -1,2 +1,2 @@
-# Machine-Learning-
-Complete machine learning with hands on
+# Machine-Learning
+Complete machine learning with hands on practice.
