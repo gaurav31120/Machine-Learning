@@ -1,0 +1,10 @@
+Here, I will learn about Python basics.
+
+2.1. Google Colaboratory for Python – Getting Systems Ready
+2.2. Python Basics
+2.3. Python Basic Data Types – int, float, string, complex, boolean
+2.4. Python Special Data Types – List, Tuple, Set, Dictionary
+2.5. Operators in Python
+2.6. if else Statement in Python
+2.7. Loops in Python – For Loop &amp; While Loop
+2.8. Functions in Python
