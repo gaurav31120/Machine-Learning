@@ -1,0 +1,2 @@
+Here, I will learn about important Python libraries.
+1.Numpy
